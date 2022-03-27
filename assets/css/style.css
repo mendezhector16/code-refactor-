@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header rules START here */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+ /* nav rules START here*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,10 @@ a {
 p {
     font-size: 16px;
 }
+/* nav rules END here */
+/* header rules END here */
 
+/* hero rules START here */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +61,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* hero rules END here */
 
+/* rules for main START here */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +79,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* rules for main END here */
 
+/*rules for sidebar START here */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +140,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* rules for sidebar END here */
 
+/* rules for main content START here */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +196,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*rules for main content END here*/
 
+/*rules for footer START here*/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +209,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*rules for footer END here*/
